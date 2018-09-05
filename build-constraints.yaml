@@ -2554,7 +2554,7 @@ packages:
         - tao-example
 
     "Suhail Shergill <suhailshergill@gmail.com> @suhailshergill":
-        - extensible-effects < 0 # GHC 8.4 via base-4.11.0.0
+        - extensible-effects
 
     "Justus Adam <dev@justus.science> @JustusAdam":
         # - marvin # https://github.com/JustusAdam/marvin/issues/22
